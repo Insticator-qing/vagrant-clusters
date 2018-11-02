@@ -1,0 +1,1 @@
+{"virtualbox":{"/home/vagrant/share":{"guestpath":"/home/vagrant/share","hostpath":"/home/qing/Documents/vag-share","disabled":false,"__vagrantfile":true},"/vagrant":{"guestpath":"/vagrant","hostpath":"/home/qing/Documents/vagrant-cluster","disabled":false,"__vagrantfile":true}}}
