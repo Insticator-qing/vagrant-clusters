@@ -1,6 +1,6 @@
 Vagrant.configure("2") do |config|
 
-	(5..6).each do |i|
+	(4..6).each do |i|
 
 		config.vm.define "node#{i}" do |node|
 
